@@ -268,7 +268,7 @@ Used `COUNTIFS` to calculate:
 
 * GitHub Repository: (https://github.com/Sai-keerthana116/PlatinumRx_Assignment)
 * Spreadsheet Link: (https://docs.google.com/spreadsheets/d/1x8f--VexF6ieYt5OtAK8RlFo4cEyMC5gixNSUguaOrI/edit?usp=sharing)
-* Screen Recording: (Optional but recommended)
+* Screen Recording: (https://drive.google.com/file/d/1GX2kcGZ36ZTFBm5tI1xtQBK9T8KHrndN/view?usp=sharing)
 
 ---
 
